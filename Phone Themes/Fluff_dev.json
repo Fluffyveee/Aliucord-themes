@@ -1,0 +1,14 @@
+{
+    "manifest": {
+        "author": "Fluffyvee#9999",
+        "name": "Fluff_dev",
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/Fluffyveee\/DIscord-Themes\/main\/Phone%20Themes\/Fluff_dev.json"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {},
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
