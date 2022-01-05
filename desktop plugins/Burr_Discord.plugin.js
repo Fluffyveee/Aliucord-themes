@@ -8,8 +8,8 @@
  * @donate
  * @patreon
  * @website https://twitter.com/Fluffyveetoxel
- * @source https://github.com/mwittrien/BetterDiscordAddons/tree/master/Library/
- * @updateUrl https://mwittrien.github.io/BetterDiscordAddons/Library/0BDFDB.plugin.js
+ * @source https://github.com/Fluffyveee/DIscord-stuff
+ * @updateUrl https://raw.githubusercontent.com/Fluffyveee/DIscord-stuff/main/desktop%20plugins/Burr_Discord.plugin.js
  */
 
 module.exports = (_ => {
@@ -65,5 +65,3 @@ module.exports = (_ => {
 	  background: rgba(0,0,0,0.5);
 	  width: 100%; height: 100%;
 	}
-
-	
