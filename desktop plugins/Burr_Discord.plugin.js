@@ -4,9 +4,6 @@
  * @authorId 414994980428578837
  * @version 0.0.1
  * @description burrs discord atfer a set time
- * @invite
- * @donate
- * @patreon
  * @website https://twitter.com/Fluffyveetoxel
  * @source https://github.com/Fluffyveee/DIscord-stuff
  * @updateUrl https://raw.githubusercontent.com/Fluffyveee/DIscord-stuff/main/desktop%20plugins/Burr_Discord.plugin.js
