@@ -48,3 +48,22 @@ module.exports = (_ => {
 	    WScript.Quit();
 
 	@else@*/
+
+	html:not(.app-focused) {
+	  transition: filter 400ms ease-in;
+	  filter: blur(6px);
+	}
+
+	html.app-focused {
+	  transition: 550ms ease-out;
+	}
+
+	html:not(.app-focused) #app-mount::after {
+	  content: "";
+	  z-index: 200;
+	  position: fixed;
+	  background: rgba(0,0,0,0.5);
+	  width: 100%; height: 100%;
+	}
+
+	
