@@ -1,2 +1,1 @@
-# My themes
-this is for my themes that i make
+# this is for anthing i make for discord stuff
