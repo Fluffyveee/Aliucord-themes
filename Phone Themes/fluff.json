@@ -45,9 +45,9 @@
             "#420976"
         ],
         "BACKGROUND_TERTIARY": [
-            "#420976",
+            "#2e125e",
             false,
-            "#420976"
+            "#2e125e"
         ],
         "BACKGROUND_ACCENT": [
             "#9013fe",
@@ -105,9 +105,9 @@
             "#FFFFFF"
         ],
         "CHANNEL_ICON": [
-            "#A020F0",
+            "#9013fe",
             false,
-            "#A020F0"
+            "#9013fe"
         ],
         "CHANNELS_DEFAULT": [
             "#E0B0FF",
