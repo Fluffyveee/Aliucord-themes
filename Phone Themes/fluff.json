@@ -55,9 +55,9 @@
             "#0b0b0b"
         ],
         "BACKGROUND_TERTIARY": [
-            "#000000",
+            "#420976",
             false,
-            "#000000"
+            "#420976"
         ],
         "BACKGROUND_ACCENT": [
             "#0b0b0b",
@@ -149,7 +149,6 @@
         "BRAND_300": "#FFFFFF",
         "BRAND_330": "#FFFFFF",
         "BRAND_345": "#FFFFFF",
-        "YELLOW_300": "#9F2B68",
         "RED_345": "#A020F0",
         "PRIMARY_400": "#A020F0"
     },
