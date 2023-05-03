@@ -75,9 +75,9 @@
             "#270546"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#A020F0",
+            "#9013fe",
             false,
-            "#A020F0"
+            "#9013fe"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#A020F0",
