@@ -1,6 +1,6 @@
 {
     "name": "Fluff",
-    "version": "0.3",
+    "version": "0.4",
     "description": "My personal own theme that i ported over from Aliucord",
     "authors": [
         {
@@ -9,20 +9,10 @@
         }
     ],
     "semanticColors": {
-        "TEXT_NORMAL": [
-            "#FFFFFF",
-            false,
-            "#FFFFFF"
-        ],
-        "TEXT_MUTED": [
-            "#CBC3E3",
-            false,
-            "#CBC3E3"
-        ],
         "INTERACTIVE_NORMAL": [
-            "#E0B0FF",
+            "#9013fe",
             false,
-            "#E0B0FF"
+            "#9013fe"
         ],
         "INTERACTIVE_HOVER": [
             "#CBC3E3",
@@ -30,9 +20,9 @@
             "#CBC3E3"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#A020F0",
+            "#9013fe",
             false,
-            "#A020F0"
+            "#9013fe"
         ],
         "INTERACTIVE_MUTED": [
             "#CBC3E3",
@@ -50,9 +40,9 @@
             "#270546"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#0b0b0b",
+            "#420976",
             false,
-            "#0b0b0b"
+            "#420976"
         ],
         "BACKGROUND_TERTIARY": [
             "#420976",
@@ -125,20 +115,25 @@
             "#E0B0FF"
         ],
         "HEADER_SECONDARY": [
-            "#E0B0FF",
+            "#9013fe",
             false,
-            "#E0B0FF"
+            "#9013fe"
         ],
         "HEADER_PRIMARY": [
-            "#A020F0",
+            "#9013fe",
             false,
-            "#A020F0"
+            "#9013fe"
         ],
         "CHAT_BACKGROUND": [
             "#270546",
             false,
             "#270546"
-        ]
+        ],
+        "TEXT_LINK": [
+            "#9013fe",
+            false,
+            "#9013fe"
+        ],
     },
     "rawColors": {
         "PRIMARY_600": "#000000",
