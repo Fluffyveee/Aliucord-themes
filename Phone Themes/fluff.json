@@ -40,9 +40,9 @@
             "#CBC3E3"
         ],
         "BACKGROUND_PRIMARY": [
-            "#000000",
+            "#270546",
             false,
-            "#000000"
+            "#270546"
         ],
         "BACKGROUND_SECONDARY": [
             "#000000",
@@ -80,9 +80,9 @@
             "#270546"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#000000",
+            "#270546",
             false,
-            "#000000"
+            "#270546"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
             "#A020F0",
