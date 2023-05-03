@@ -1,0 +1,161 @@
+{
+    "name": "Fluff",
+    "version": "0.1",
+    "description": "My personal own theme that i ported over from Aliucord",
+    "authors": [
+        {
+            "name": "Fluffyvee#9999",
+            "id": "414994980428578837"
+        }
+    ],
+    "semanticColors": {
+        "TEXT_NORMAL": [
+            "#FFFFFF",
+            false,
+            "#FFFFFF"
+        ],
+        "TEXT_MUTED": [
+            "#CBC3E3",
+            false,
+            "#CBC3E3"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#E0B0FF",
+            false,
+            "#E0B0FF"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#CBC3E3",
+            false,
+            "#CBC3E3"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#A020F0",
+            false,
+            "#A020F0"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#CBC3E3",
+            false,
+            "#CBC3E3"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#000000",
+            false,
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#000000",
+            false,
+            "#000000"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#0b0b0b",
+            false,
+            "#0b0b0b"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#000000",
+            false,
+            "#000000"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#0b0b0b",
+            false,
+            "#0b0b0b"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#000000",
+            false,
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#000000",
+            false,
+            "#000000"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#000000",
+            false,
+            "#000000"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#000000",
+            false,
+            "#000000"
+        ],
+        "BACKGROUND_MENTIONED_HOVER": [
+            "#A020F0",
+            false,
+            "#A020F0"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#A020F0",
+            false,
+            "#A020F0"
+        ],
+        "BACKGROUND_MESSAGE_HIGHLIGHT": [
+            "#A020F0",
+            false,
+            "#A020F0"
+        ],
+        "BACKGROUND_MESSAGE": [
+            "#000000",
+            false,
+            "#000000"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#000000",
+            false,
+            "#000000"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#FFFFFF",
+            false,
+            "#FFFFFF"
+        ],
+        "CHANNEL_ICON": [
+            "#A020F0",
+            false,
+            "#A020F0"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#E0B0FF",
+            false,
+            "#E0B0FF"
+        ],
+        "HEADER_SECONDARY": [
+            "#E0B0FF",
+            false,
+            "#E0B0FF"
+        ],
+        "HEADER_PRIMARY": [
+            "#A020F0",
+            false,
+            "#A020F0"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_600": "#000000",
+        "PRIMARY_500": "#0B0B0B",
+        "PRIMARY_630": "#000000",
+        "PRIMARY_800": "#000000",
+        "BRAND_260": "#A020F0",
+        "BRAND_360": "#A020F0",
+        "BRAND_500": "#A020F0",
+        "WHITE": "#FFFFFF",
+        "RED_260": "#FFFFFF",
+        "GREEN_600": "#FFFFFF",
+        "BRAND_300": "#FFFFFF",
+        "BRAND_330": "#FFFFFF",
+        "BRAND_345": "#FFFFFF",
+        "YELLOW_300": "#9F2B68",
+        "RED_345": "#A020F0",
+        "PRIMARY_400": "#A020F0"
+    },
+    "unsafe_colors": {
+        "CHAT_GREY": "#000000",
+        "color": "#A020F0"
+    },
+    "spec": 2
+}
